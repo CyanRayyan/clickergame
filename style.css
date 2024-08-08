@@ -1,0 +1,19 @@
+body {
+  background: blue;
+  font-family: arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+button {
+  padding: 20px 30px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+    border-color: white
+}
+button:hover{
+  color: cyan
+}
